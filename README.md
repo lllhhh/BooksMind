@@ -1,6 +1,6 @@
 # BooksMind
 
-对已阅读的书籍，输出Xmind进行总结。
+对已阅读的书籍或教程，输出Xmind进行总结。
 
 - [BooksMind](#booksmind)
   - [计算机](#计算机)
