@@ -14,7 +14,7 @@
 
 ### 图像处理
 
-1. [OpenGL](https://github.com/lllhhh/BooksMind/blob/main/计算机/图像处理/OpenGL/OpenGL.xmind) ![OpenGL](计算机/图像处理/OpenGL/openGL.png)
+1. [OpenGL](https://github.com/lllhhh/BooksMind/blob/main/计算机/图像处理/OpenGL/OpenGL.xmind) <img src="计算机/图像处理/OpenGL/openGL.png" alt="OpenGL" style="zoom:25%;" />
 
 ### AI
 
@@ -23,4 +23,7 @@
 
 ## 投资理财
 
-1、
+1. [35岁前要上的33堂理财课](https://github.com/lllhhh/BooksMind/blob/main/投资/35岁前要上的33堂理财课/35岁前要上的33堂理财课.xmind)
+
+   <img src="/Users/liuhuan/Github/BooksMind/投资/35岁前要上的33堂理财课/35岁前要上的33堂理财课.png" style="zoom:25%;" />
+
