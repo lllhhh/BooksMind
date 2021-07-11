@@ -25,5 +25,5 @@
 
 1. [35岁前要上的33堂理财课](https://github.com/lllhhh/BooksMind/blob/main/投资/35岁前要上的33堂理财课/35岁前要上的33堂理财课.xmind)
 
-   <img src="/Users/liuhuan/Github/BooksMind/投资/35岁前要上的33堂理财课/35岁前要上的33堂理财课.png" style="zoom:25%;" />
+   <img src="投资/35岁前要上的33堂理财课/35岁前要上的33堂理财课.png" style="zoom:25%;" />
 
