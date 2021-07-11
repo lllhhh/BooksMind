@@ -15,7 +15,7 @@
 
 ### 图像处理
 
-1. [OpenGL](https://github.com/lllhhh/BooksMind/blob/main/计算机/图像处理/OpenGL/OpenGL.xmind) <img src="计算机/图像处理/OpenGL/openGL.png" alt="OpenGL" style="zoom:25%;" />
+1. [OpenGL](https://github.com/lllhhh/BooksMind/blob/main/计算机/图像处理/OpenGL/OpenGL.xmind) 
 
 ### AI
 
